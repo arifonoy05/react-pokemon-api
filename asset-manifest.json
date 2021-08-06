@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.io/react-pokemon-api/static/css/main.b56dad3f.chunk.css",
-    "main.js": "/github.io/react-pokemon-api/static/js/main.e97ca056.chunk.js",
-    "main.js.map": "/github.io/react-pokemon-api/static/js/main.e97ca056.chunk.js.map",
-    "runtime-main.js": "/github.io/react-pokemon-api/static/js/runtime-main.fd7ae09c.js",
-    "runtime-main.js.map": "/github.io/react-pokemon-api/static/js/runtime-main.fd7ae09c.js.map",
-    "static/js/2.555f77c6.chunk.js": "/github.io/react-pokemon-api/static/js/2.555f77c6.chunk.js",
-    "static/js/2.555f77c6.chunk.js.map": "/github.io/react-pokemon-api/static/js/2.555f77c6.chunk.js.map",
-    "static/js/3.4fd63e1b.chunk.js": "/github.io/react-pokemon-api/static/js/3.4fd63e1b.chunk.js",
-    "static/js/3.4fd63e1b.chunk.js.map": "/github.io/react-pokemon-api/static/js/3.4fd63e1b.chunk.js.map",
-    "index.html": "/github.io/react-pokemon-api/index.html",
-    "static/css/main.b56dad3f.chunk.css.map": "/github.io/react-pokemon-api/static/css/main.b56dad3f.chunk.css.map",
-    "static/js/2.555f77c6.chunk.js.LICENSE.txt": "/github.io/react-pokemon-api/static/js/2.555f77c6.chunk.js.LICENSE.txt"
+    "main.css": "/pokemon-api/static/css/main.b56dad3f.chunk.css",
+    "main.js": "/pokemon-api/static/js/main.e97ca056.chunk.js",
+    "main.js.map": "/pokemon-api/static/js/main.e97ca056.chunk.js.map",
+    "runtime-main.js": "/pokemon-api/static/js/runtime-main.d10af8d4.js",
+    "runtime-main.js.map": "/pokemon-api/static/js/runtime-main.d10af8d4.js.map",
+    "static/js/2.555f77c6.chunk.js": "/pokemon-api/static/js/2.555f77c6.chunk.js",
+    "static/js/2.555f77c6.chunk.js.map": "/pokemon-api/static/js/2.555f77c6.chunk.js.map",
+    "static/js/3.4fd63e1b.chunk.js": "/pokemon-api/static/js/3.4fd63e1b.chunk.js",
+    "static/js/3.4fd63e1b.chunk.js.map": "/pokemon-api/static/js/3.4fd63e1b.chunk.js.map",
+    "index.html": "/pokemon-api/index.html",
+    "static/css/main.b56dad3f.chunk.css.map": "/pokemon-api/static/css/main.b56dad3f.chunk.css.map",
+    "static/js/2.555f77c6.chunk.js.LICENSE.txt": "/pokemon-api/static/js/2.555f77c6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd7ae09c.js",
+    "static/js/runtime-main.d10af8d4.js",
     "static/js/2.555f77c6.chunk.js",
     "static/css/main.b56dad3f.chunk.css",
     "static/js/main.e97ca056.chunk.js"
