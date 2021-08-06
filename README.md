@@ -12,3 +12,5 @@ Run the server <br>
 `npm start` <br>
 
 And you're good to go
+
+Visit [this link](https://arifonoy05.github.io/react-pokemon-api/) to take a look at the live site
